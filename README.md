@@ -1,5 +1,10 @@
-[![YukiEbuchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukiEbuchi&count_private=true&theme=vue-dark&show_icons=true)](https://github.com/YukiEbuchi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiEbuchi&count_private=true&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/YukiEbuchi/github-readme-stats)
+## 🌱 I’m currently learning ...
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,perl,aiscript,linux,github" />
+
+## ✨ History
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YukiEbuchi&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiEbuchi&count_private=True&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **YukiEbuchi/YukiEbuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
